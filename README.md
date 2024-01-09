@@ -4,5 +4,7 @@
 - 🎮 My hobbies are playing video games and improving my game development skills.
 - 🕹️ My dream is to be a game developer.
 
+<br/>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ichi1234&theme=chartreuse-dark)
 
