@@ -6,7 +6,7 @@
 <br/>
   
 ## 💻 IDEs :
-<img align="left" alt="Intellij" width="32px" src="https://cdn.discordapp.com/attachments/1186225788551438376/1194300709307437221/1024px-PyCharm_Icon.png?ex=65afda36&is=659d6536&hm=dc31b971bb9aeace58c6806f9ad68be3dee580d0255b6dde31be2e38767b1fb3&"/>
+<img align="left" alt="Pycharm Logo" width="32px" src=""/>
 <br/>
 
 <br/>
@@ -15,5 +15,6 @@
 
 ## 🧠 Stats :
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ichi1234&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ichi1234&theme=chartreuse-dark)
 
