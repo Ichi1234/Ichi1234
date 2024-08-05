@@ -6,15 +6,13 @@
 <br/>
   
 ## 💻 IDEs :
-<img align="left" alt="Pycharm Logo" width="32px" src=""/>
-<br/>
+![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-<br/>
-<br/>
+
 
 
 ## 🧠 Stats :
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ichi1234&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ichi1234&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ichi1234&theme=chartreuse-dark)
 
